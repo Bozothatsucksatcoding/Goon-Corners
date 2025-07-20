@@ -1,0 +1,20 @@
+E:\goon corners\publish\goon corners.pdb
+E:\goon corners\publish\assets\474806127_9527646580580889_6378292400547533112_n.jpg
+E:\goon corners\publish\assets\Anky.png
+E:\goon corners\publish\assets\d748a23da27d117a05cc580ed47a7b62.png
+E:\goon corners\publish\assets\dfkgdfj.png
+E:\goon corners\publish\assets\dsgfd.png
+E:\goon corners\publish\assets\fdgfd.png
+E:\goon corners\publish\assets\ffdjkogdfs.png
+E:\goon corners\publish\assets\giganotosaurus-dinosaur-cartoon-colored-clipart-free-vector.png
+E:\goon corners\publish\assets\gjsdgsd.png
+E:\goon corners\publish\assets\kgkfjdgkdfs.png
+E:\goon corners\publish\assets\sigfm.png
+E:\goon corners\publish\assets\tyrannosaurus-from-the-cretaceous-era-3d-illustration.png
+E:\goon corners\publish\assets\Z.png
+E:\goon corners\publish\D3DCompiler_47_cor3.dll
+E:\goon corners\publish\PenImc_cor3.dll
+E:\goon corners\publish\PresentationNative_cor3.dll
+E:\goon corners\publish\vcruntime140_cor3.dll
+E:\goon corners\publish\wpfgfx_cor3.dll
+E:\goon corners\publish\goon corners.exe

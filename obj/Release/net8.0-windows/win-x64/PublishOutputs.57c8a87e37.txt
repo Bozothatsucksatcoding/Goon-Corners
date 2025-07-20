@@ -1,0 +1,20 @@
+E:\goon corners\bin\Release\net8.0-windows\win-x64\publish\goon corners.pdb
+E:\goon corners\bin\Release\net8.0-windows\win-x64\publish\assets\474806127_9527646580580889_6378292400547533112_n.jpg
+E:\goon corners\bin\Release\net8.0-windows\win-x64\publish\assets\Anky.png
+E:\goon corners\bin\Release\net8.0-windows\win-x64\publish\assets\d748a23da27d117a05cc580ed47a7b62.png
+E:\goon corners\bin\Release\net8.0-windows\win-x64\publish\assets\dfkgdfj.png
+E:\goon corners\bin\Release\net8.0-windows\win-x64\publish\assets\dsgfd.png
+E:\goon corners\bin\Release\net8.0-windows\win-x64\publish\assets\fdgfd.png
+E:\goon corners\bin\Release\net8.0-windows\win-x64\publish\assets\ffdjkogdfs.png
+E:\goon corners\bin\Release\net8.0-windows\win-x64\publish\assets\giganotosaurus-dinosaur-cartoon-colored-clipart-free-vector.png
+E:\goon corners\bin\Release\net8.0-windows\win-x64\publish\assets\gjsdgsd.png
+E:\goon corners\bin\Release\net8.0-windows\win-x64\publish\assets\kgkfjdgkdfs.png
+E:\goon corners\bin\Release\net8.0-windows\win-x64\publish\assets\sigfm.png
+E:\goon corners\bin\Release\net8.0-windows\win-x64\publish\assets\tyrannosaurus-from-the-cretaceous-era-3d-illustration.png
+E:\goon corners\bin\Release\net8.0-windows\win-x64\publish\assets\Z.png
+E:\goon corners\bin\Release\net8.0-windows\win-x64\publish\D3DCompiler_47_cor3.dll
+E:\goon corners\bin\Release\net8.0-windows\win-x64\publish\PenImc_cor3.dll
+E:\goon corners\bin\Release\net8.0-windows\win-x64\publish\PresentationNative_cor3.dll
+E:\goon corners\bin\Release\net8.0-windows\win-x64\publish\vcruntime140_cor3.dll
+E:\goon corners\bin\Release\net8.0-windows\win-x64\publish\wpfgfx_cor3.dll
+E:\goon corners\bin\Release\net8.0-windows\win-x64\publish\goon corners.exe

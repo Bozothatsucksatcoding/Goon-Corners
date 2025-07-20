@@ -1,0 +1,27 @@
+E:\goon corners\bin\Debug\net8.0-windows\assets\474806127_9527646580580889_6378292400547533112_n.jpg
+E:\goon corners\bin\Debug\net8.0-windows\assets\dfkgdfj.png
+E:\goon corners\bin\Debug\net8.0-windows\assets\dsgfd.png
+E:\goon corners\bin\Debug\net8.0-windows\assets\fdgfd.png
+E:\goon corners\bin\Debug\net8.0-windows\assets\ffdjkogdfs.png
+E:\goon corners\bin\Debug\net8.0-windows\goon corners.exe
+E:\goon corners\bin\Debug\net8.0-windows\goon corners.deps.json
+E:\goon corners\bin\Debug\net8.0-windows\goon corners.runtimeconfig.json
+E:\goon corners\bin\Debug\net8.0-windows\goon corners.dll
+E:\goon corners\bin\Debug\net8.0-windows\goon corners.pdb
+E:\goon corners\obj\Debug\net8.0-windows\goon corners.GeneratedMSBuildEditorConfig.editorconfig
+E:\goon corners\obj\Debug\net8.0-windows\goon corners.AssemblyInfoInputs.cache
+E:\goon corners\obj\Debug\net8.0-windows\goon corners.AssemblyInfo.cs
+E:\goon corners\obj\Debug\net8.0-windows\goon corners.csproj.CoreCompileInputs.cache
+E:\goon corners\obj\Debug\net8.0-windows\goon corners.dll
+E:\goon corners\obj\Debug\net8.0-windows\refint\goon corners.dll
+E:\goon corners\obj\Debug\net8.0-windows\goon corners.pdb
+E:\goon corners\obj\Debug\net8.0-windows\goon corners.genruntimeconfig.cache
+E:\goon corners\obj\Debug\net8.0-windows\ref\goon corners.dll
+E:\goon corners\bin\Debug\net8.0-windows\assets\gjsdgsd.png
+E:\goon corners\bin\Debug\net8.0-windows\assets\kgkfjdgkdfs.png
+E:\goon corners\bin\Debug\net8.0-windows\assets\sigfm.png
+E:\goon corners\bin\Debug\net8.0-windows\assets\Anky.png
+E:\goon corners\bin\Debug\net8.0-windows\assets\giganotosaurus-dinosaur-cartoon-colored-clipart-free-vector.png
+E:\goon corners\bin\Debug\net8.0-windows\assets\tyrannosaurus-from-the-cretaceous-era-3d-illustration.png
+E:\goon corners\bin\Debug\net8.0-windows\assets\Z.png
+E:\goon corners\bin\Debug\net8.0-windows\assets\d748a23da27d117a05cc580ed47a7b62.png
