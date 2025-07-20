@@ -61,10 +61,11 @@ public partial class Form1 : Form
             Environment.Exit(1);
         }
 
+        int interval = 10000;
 
 
         timer = new System.Windows.Forms.Timer();
-        timer.Interval = 10000;
+        timer.Interval = interval;
         timer.Tick += (s, e) =>
         {
             for (int i = 0; i < 4; i++)
@@ -78,16 +79,6 @@ public partial class Form1 : Form
         };
         timer.Start();
 
-    }
-
-    private void LoadNewImages()
-    {
-        for (int i = 0; i < 4; i++)
-        {
-            currentImages[i]?.Dispose();
-            string path = imagePaths[rand.Next(imagePaths.Length)];
-            currentImages[i] = Image.FromFile(path);
-        }
     }
 
     protected override void OnPaint(PaintEventArgs e)
@@ -123,5 +114,7 @@ public partial class Form1 : Form
         base.OnFormClosing(e);
 
     }
+
+    
 
 }
